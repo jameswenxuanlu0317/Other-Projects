@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PostFixException
+comment0.text=\r\n\ This\ is\ a\ post\ fix\ exception\ class\ that\ extends\ class\ Exception\r\n\ Called\ when\ the\ string\ of\ expression\ is\ invalid\r\n\ Prints\ out\ the\ given\ message\r\n\ \r\n\ @Author\ Lu\r\n\ @Version\ 11111\r\n
+comment1.params=message
+comment1.target=PostFixException(java.lang.String)
+comment1.text=\r\n\ Prints\ out\ a\ given\ error\ message\r\n
+numComments=2

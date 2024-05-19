@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StackException
+comment0.text=\r\n\ This\ is\ a\ stack\ exception\ class\ that\ extends\ class\ Exception\r\n\ Called\ when\ the\ stack\ is\ empty\r\n\ Prints\ out\ the\ given\ message\r\n\r\n\ @author\ Lu\r\n\ @version\ 11111\r\n
+comment1.params=message
+comment1.target=StackException(java.lang.String)
+comment1.text=\r\n\ Prints\ out\ the\ given\ error\ message\r\n
+numComments=2

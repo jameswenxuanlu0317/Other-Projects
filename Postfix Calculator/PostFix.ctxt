@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PostFix
+comment0.text=\r\n\ This\ class\ evaluates\ post\ fix\ expressions\ using\ integer\ math\r\n\ It\ has\ evaluate\ method\ to\ calculate\ a\ string\ of\ expressions\r\n\ It\ has\ a\ getResult\ method\ to\ return\ the\ final\ value\r\n\ It\ has\ a\ toString\ method\ to\ return\ the\ original\ expressions\ with\ the\ final\ answer\r\n\r\n\ @author\ Lu\r\n\ @version\ 11111\r\n
+comment1.params=str
+comment1.target=void\ evaluate(java.lang.String)
+comment1.text=\r\n\ This\ method\ evaluates\ a\ given\ string\ of\ post\ fix\ expressions\ with\ integer\ math\r\n\ It\ creates\ a\ new\ arrayStack\r\n\ It\ goes\ through\ the\ given\ string,\ if\ one\ character\ is\ a\ integer,\ it\ gets\ pushed\ to\ the\ arraystack\r\n\ If\ the\ character\ is\ an\ operation,\ the\ array\ stack\ pops\ two\ elements\ and\ do\ the\ appropriate\ calculations\r\n\ if\ the\ expression\ is\ invalid,\ it\ throws\ a\ post\ fix\ exception.\r\n
+comment2.params=str
+comment2.target=boolean\ isOperation(java.lang.Character)
+comment2.text=\r\n\ Returns\ false\ if\ the\ given\ string\ is\ not\ a\ operator\r\n\ otherwise\ return\ true\r\n
+comment3.params=str
+comment3.target=boolean\ notPostFix(java.lang.String)
+comment3.text=\r\n\ check\ if\ the\ expression\ is\ a\ post\ fix\ expression\r\n\ Take\ a\ string\ as\ a\ parameter,\ go\ through\ the\ string\r\n\ if\ one\ index\ has\ a\ digit,\ then\ try\ two\ more\ index\ after\ it,\ see\ if\ it\ is\ still\ a\ digit\r\n\ Return\ false\ if\ it\ is\ not\ a\ digit\ any\ more\r\n\ If\ one\ index\ has\ a\ operator,\ then\ try\ two\ more\ index\ after\ it,\ see\ if\ it\ is\ still\ a\ operator\r\n\ Return\ false\ if\ it\ is\ not\ a\ operator\ anymore\r\n\ Otherwise\ return\ true\r\n
+comment4.params=
+comment4.target=int\ getResult()
+comment4.text=\r\n\ Return\ the\ result\ of\ the\ calculation\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Return\ the\ string\ contains\ the\ original\ postfix\ expressions\ and\ the\ calculation\ results\r\n
+numComments=6

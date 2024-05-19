@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayStack
+comment0.text=\r\n\ This\ is\ class\ ArrayStack\ implements\ interface\ Stack\ Class\r\n\ It\ contains\ method\ push,\ pop\ ,\ peekTop,\ and\ checks\ if\ the\ stack\ is\ empty\r\n\ It\ creates\ a\ new\ object\ array\ and\ could\ be\ used\ to\ store\ a\ stack\ of\ objects\r\n\ \r\n\r\n\ @author\ Lu\r\n\ @version\ 11111\r\n
+comment1.params=l
+comment1.target=ArrayStack(int)
+comment1.text=\r\n\ points\ to\ the\ object\ array\ with\ the\ given\ length\r\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\ Returns\ true\ if\ the\ stack\ is\ empty\r\n\ otherwise\ return\ false\r\n
+comment3.params=
+comment3.target=java.lang.Object\ peekTop()
+comment3.text=\ Return\ the\ value\ that\ pop\ would\ give,\ without\ modifying\r\n\ the\ stack\ by\ returning\ the\ first\ value\ of\ the\ array\r\n\ Throw\ a\ StackException\ if\ the\ stack\ is\ empty.\ \r\n
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment4.text=\ Remove\ and\ return\ the\ value\ that\ has\ been\ in\ the\ stack\ the\r\n\ least\ time.\ \r\n\ Throw\ a\ StackException\ if\ the\ stack\ is\ empty.\ \r\n
+comment5.params=ob
+comment5.target=void\ push(java.lang.Object)
+comment5.text=\ Add\ the\ given\ value\ to\ the\ stack.\ \r\n
+numComments=6

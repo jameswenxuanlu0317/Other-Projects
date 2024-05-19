@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArrayStackTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testNotEmpty()
+comment2.text=\r\n\ succeed\ if\ the\ arraystack\ isn't\ empty\r\n
+comment3.params=
+comment3.target=void\ testEmpty()
+comment3.text=\r\n\ succeed\ if\ the\ arraystack\ is\ empty\r\n
+comment4.params=
+comment4.target=void\ testPopEmpty()
+comment4.text=\r\n\ test\ if\ it\ catches\ the\ stack\ exception\r\n\ create\ an\ empty\ string\r\n\ pop\ the\ empty\ string\r\n\ succeed\ if\ catches\ the\ error\ otherwise\ fail\r\n
+comment5.params=
+comment5.target=void\ testPushPop()
+comment5.text=\r\n\ test\ push\ and\ pop\ methods\r\n\ create\ a\ new\ arraystack\r\n\ push\ 1000\ object\r\n\ pop\ those\ 1000\ object\r\n\ see\ if\ the\ number\ of\ object\ popped\ equals\ to\ the\ number\ of\ object\ it\ pushed\r\n
+comment6.params=
+comment6.target=void\ testPeekTop()
+comment6.text=\r\n\ test\ the\ method\ peekTop()\r\n\ create\ a\ new\ arraystack\r\n\ pushes\ one\ object\r\n\ succeed\ if\ it\ peeks\ the\ same\ object\r\n
+numComments=7
