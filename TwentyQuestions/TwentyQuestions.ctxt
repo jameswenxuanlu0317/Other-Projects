@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TwentyQuestions
+comment0.text=\n\ @author\ Lu\n\ This\ program\ will\ allow\ you\ to\ play\ the\ game\ of\ 20\ questions\n
+comment1.params=
+comment1.target=TwentyQuestions()
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\n\ play\ the\ game\n\ create\ a\ scanner\ to\ load\ the\ infile\ and\ create\ a\ buffered\ reader\ to\ read\ input\ lines\ by\ players\n\ create\ a\ tree\ from\ the\ infile\n\ it\ prints\ out\ questions\ and\ answers\ to\ allow\ players\ choose\ yes\ or\ no\n\ allows\ players\ to\ choose\ whether\ they\ want\ to\ restart\ after\ each\ round\n\ allows\ players\ to\ add\ questions\ and\ save\ the\ file\ to\ the\ outfile\ if\ computer\ didn't\ win\n\ if\ computer\ guessed\ the\ right\ answer,\ the\ computer\ wins\n\ \n
+comment3.params=str
+comment3.target=boolean\ isAns(java.lang.String)
+comment3.text=\n\ if\ the\ answer\ is\ yes\ or\ no,\ return\ true\n
+comment4.params=scan
+comment4.target=TreeNode\ createTree(java.util.Scanner)
+comment4.text=\n\ recursively\ create\ the\ tree\n
+comment5.params=filename
+comment5.target=void\ outFile(java.lang.String)
+comment5.text=\n\ save\ the\ outfile\ using\ helper\n
+comment6.params=root
+comment6.target=java.lang.String\ outHelper(TreeNode)
+comment6.text=\n\ return\ a\ string\ that\ contains\ all\ elements\ of\ the\ tree\ \n
+comment7.params=
+comment7.target=java.lang.String\ getCommand()
+comment7.text=\n\ get\ the\ command\ word\ \n
+numComments=8

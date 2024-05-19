@@ -1,0 +1,19 @@
+#Q:Is the team in the west
+#Q:Is the team in Texas
+Is it Houston Rockets
+#Q:Do the team have championships
+Is it LA Lakers
+#Q:do the team have former rookie of the year
+Is it Utah Jazz
+#Q:Is the team in the playoff picture
+Is it LA Clippers
+Is it OKC Thunder
+#Q:Is the team in the playoff picture
+#Q:Do the team have league MVP?
+Is it Milwaukee Bucks
+#Q:Do the team have Championships
+Is it Boston Celtics
+Is it Indiana Pacers
+#Q:iaodh
+Is it akwjehkjawbd
+Is it Chicago Bulls
