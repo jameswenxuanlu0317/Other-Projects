@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ This\ is\ a\ class\ called\ Counter\ and\ extends\ the\ Actor\ class\r\n\ It\ sets\ and\ Greenfoot\ image\ at\ a\ certain\ postition\ to\ indicate\ the\ energy\ level\ of\ the\ main\ character\r\n\ It\ can\ add/lose\ energy\ by\ the\ method\ bumpCount,\ which\ has\ the\ parameter\ indicates\ the\ amound\ of\ energy\ it\ wants\ to\ add/lose\r\n\ \r\n\ @author\ Lu\r\n\ @version\ 100\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ sets\ an\ image\ and\ starts\ with\ the\ initial\ energy\ of\ 0\r\n
+comment2.params=amount
+comment2.target=void\ bumpCount(int)
+comment2.text=\r\n\ Increase\ the\ total\ amount\ displayed\ on\ the\ counter,\ by\ a\ given\ amount.\r\n
+comment3.params=
+comment3.target=int\ getScore()
+comment3.text=\r\n\ returns\ the\ energy\ level\ of\ the\ character\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TeacherCounter
+comment0.text=\r\n\ This\ is\ a\ class\ called\ TeacherCounter\ and\ extends\ the\ Actor\ class\r\n\ It\ sets\ and\ Greenfoot\ image\ at\ a\ certain\ postition\ to\ indicate\ the\ energy\ level\ of\ the\ enemy\r\n\ It\ can\ lose\ energy\ by\ the\ method\ decrase,\ which\ has\ the\ parameter\ indicates\ the\ amound\ of\ energy\ it\ wants\ to\ lose\r\n\ It\ will\ move\ with\ the\ enemy,\ see\ the\ method\ move(Teachers\ t)\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x
+comment1.target=TeacherCounter(int)
+comment1.text=\r\n\ sets\ an\ image\ and\ starts\ with\ the\ initial\ energy\ of\ the\ parameter\r\n
+comment2.params=x
+comment2.target=void\ decrease(int)
+comment2.text=\r\n\ decrease\ the\ amount\ of\ health\ by\ the\ give\ parameter\r\n
+comment3.params=x\ y
+comment3.target=void\ drawHealth(int,\ int)
+comment3.text=\r\n\ draw\ this\ object\ at\ a\ given\ position\ with\ the\ parameter\r\n
+comment4.params=t
+comment4.target=void\ move(Teachers)
+comment4.text=\r\n\ move\ the\ object\ with\ the\ enemy\ indicated\ by\ the\ parameter\r\n
+numComments=5

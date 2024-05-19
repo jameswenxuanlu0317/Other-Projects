@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Weapon
+comment0.text=\r\n\ This\ is\ a\ class\ called\ Weapon\ and\ extends\ the\ Actor\ class\r\n\ it\ shoots\ the\ weapon\ to\ the\ right\r\n\ removes\ the\ enemies\ if\ they\ aren't\ healthy\ anymore\r\n\ contains\ different\ types\ of\ weapons\:\ elevator,\ eraser,\ and\ pencils\ as\ subclasses\r\n\ \r\n\ @author\ Lu\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ shoot()
+comment1.text=\r\n\ shoot\ the\ weapon,\ removes\ the\ enemy\ if\ they\ arent\ healthy\ \r\n\ removes\ the\ weapon\ if\ they\ reaches\ the\ barrier\r\n
+comment2.params=
+comment2.target=int\ score()
+comment2.text=\r\n\ \r\n
+numComments=3

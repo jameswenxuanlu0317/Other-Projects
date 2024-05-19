@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Elevator
+comment0.text=\r\n\ This\ is\ a\ class\ called\ Elevator\ and\ extends\ the\ Weapon\ class\r\n\ it\ cost\ 30\ energy\ to\ shoot\ this\ weapon\r\n\r\n\ @author\ Lu\r\n\ @version\ 100\r\n
+comment1.params=sam
+comment1.target=Elevator(Player)
+comment1.text=\r\n\ scale\ the\ image\ to\ the\ size(50,70)\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ shoot\ the\ weapon,\ inherits\ from\ the\ parent\ class\r\n
+comment3.params=
+comment3.target=void\ loseEnergy()
+comment3.text=\r\n\ lose\ energy\ by\ the\ constant\ if\ it\ shoots\ the\ weapon\r\n
+numComments=4

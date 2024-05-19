@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hershey
+comment0.text=\r\n\ This\ is\ a\ class\ called\ Hershey\ and\ extends\ the\ Actor\ class\r\n\ this\ class\ serves\ as\ the\ energy\ boost\ of\ the\ main\ character,\ see\ class\ player\r\n\ \r\n\ @author\ Lu\r\n\ @version\ 100\r\n
+comment1.params=
+comment1.target=Hershey()
+comment1.text=\r\n\ scale\ the\ image\ size\ to\ (50,50)\r\n
+numComments=2

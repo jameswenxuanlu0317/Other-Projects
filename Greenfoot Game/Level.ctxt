@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ This\ is\ the\ level\ class\ interface.\ This\ class\ would\ be\ implemented\ by\ the\ class\:\ space,\ level\ 2,\ and\ level\ 3\r\n\ \r\n\ \r\n\ @author\ Lu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ printInstruction()
+comment3.params=
+comment3.target=void\ addInstructions()
+comment4.params=
+comment4.target=Counter\ getCounter()
+numComments=5

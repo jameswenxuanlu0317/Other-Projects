@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sam
+comment0.text=\r\n\ This\ is\ a\ class\ Sam\ that\ extends\ the\ Player\ class\r\n\ It\ can\ move\ and\ inherits\ other\ features\ from\ player\ class\r\n\ it\ will\ restart\ the\ level\ if\ it\ reaches\ teachers\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ it\ inherits\ features\ from\ the\ parent\ class\r\n\ it\ can\ move,\ see\ the\ moveCharacter\ method\r\n\ it\ restarts\ the\ level\ if\ reaches\ to\ teacher\r\n
+comment2.params=
+comment2.target=void\ moveCharacter()
+comment2.text=\r\n\ moves\ the\ character\ by\ key\ board\ arrows\ indicated\r\n\ up\=up\ 5\r\n\ down\=down\ 5\r\n\ left\=left\ 5\r\n\ right\=right\ 5\r\n
+comment3.params=
+comment3.target=boolean\ reachTeacher()
+comment3.text=\r\n\ checks\ if\ it\ reaches\ teacher,\ return\ true\ if\ it\ does,\ return\ false\ if\ it\ doesn't\r\n
+comment4.params=
+comment4.target=void\ backToStart()
+comment4.text=\r\n\ if\ reaches\ teacher,\ restart\ the\ current\ round\r\n\ \r\n
+numComments=5
