@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Blackjack\ game\ class.\ Each\ player\ gets\ 2\ cards.\r\n\ You\ try\ to\ beat\ the\ dealer\ with\ your\ cards,\ if\ your\ card\ values\ are\ \r\n\ greater\ than\ the\ dealer\ card\ values,\ you\ win\ that\ round.\r\n\ You\ can\ add\ any\ value\ of\ bets\ to\ the\ game,\ you\ start\ with\ $100.\r\n\ If\ you\ you\ lose\ all\ of\ your\ money\ or\ win\ above\ $1000,\ the\ game\ automatically\ ends.\r\n\ @Author\ Lu\r\n
+comment1.params=
+comment1.target=void\ playBlackJack()
+comment1.text=\r\n\ This\ is\ the\ code\ for\ playing\ the\ game.\ Setting\ initial\ cash\ $100\r\n\ Creating\ a\ new\ deck,\ shuffle\ the\ cards.Creating\ two\ hands(players)\r\n\ Start\ the\ game.\ Show\ the\ dialogue\ box,\ enter\ a\ betting\ value\ to\ proceed.\r\n
+comment2.params=
+comment2.target=void\ getBet()
+comment2.text=\r\n\ This\ code\ shows\ the\ dialogue\ box,\ enter\ the\ value\ you\ want\ to\ bet.\r\n
+numComments=3

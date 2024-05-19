@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hand
+comment0.text=\r\n\ This\ is\ the\ Hand\ class.\ This\ class\ draws\ 2\ cards\ from\ the\ deck.\ Adds\ up\r\n\ the\ blackjack\ values.\ Returns\ the\ two\ cards.\r\n\ \r\n\ \r\n\ @????????\r\n\ @???????????????\r\n
+comment1.params=deck
+comment1.target=Hand(Deck)
+comment1.text=\r\n\ This\ draws\ 2\ cards\ from\ the\ deck.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ This\ returns\ 2\ cards.\r\n
+comment3.params=
+comment3.target=int\ getBlackJackValue()
+comment3.text=\r\n\ This\ specifies\ a\ special\ scenario\ when\ a\ player\ draws\ two\ Aces,\r\n\ in\ that\ case\ to\ benefit\ the\ player\ the\ most,\ one\ ace\ has\ the\ value\r\n\ of\ 11,\ the\ other\ one\ has\ the\ value\ of\ 1.\r\n\ In\ other\ cases,\ the\ code\ would\ automatically\ adds\ up\ the\ card\ values.\r\n
+comment4.params=a
+comment4.target=int\ getCardValue(Card)
+comment4.text=\r\n\ This\ method\ Specifies\ the\ special\ cases\ of\ Ace,\ Jack,\ Queen\ and\ King\r\n\ Returns\ the\ card\ value.\r\n
+numComments=5

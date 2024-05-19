@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ This\ is\ the\ Card\ class\ that\ holds\ all\ the\ cards.\ Each\ face\ cards\ has\ \r\n\ value.\ Each\ suit\ stores\ a\ final\ constant\ value.\ Jack,\ Queen\ and\ King\ also\r\n\ stores\ final\ constant\ values.\ Creating\ an\ array\ of\ suits\ and\ card\ values.\r\n\ @Author\ Lu\r\n
+comment1.params=suit\ value
+comment1.target=Card(int,\ int)
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ This\ code\ returns\ the\ value\ of\ the\ card\r\n
+comment3.params=theValue
+comment3.target=void\ setValue(int)
+comment3.text=\r\n\ Change\ the\ value\ of\ the\ card\r\n
+comment4.params=
+comment4.target=int\ getSuit()
+comment4.text=\r\n\ Return\ the\ suit\r\n
+comment5.params=theSuit
+comment5.target=void\ setSuit(int)
+comment5.text=\r\n\ Change\ the\ suit\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Return\ the\ card\r\n
+numComments=7
